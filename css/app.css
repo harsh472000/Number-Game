@@ -1,0 +1,35 @@
+.hname{
+    margin-top: 50px;
+    text-align: center;
+    background-color:rgb(226, 226, 231);;
+}
+
+.all{   
+    background-color: rgb(138, 138, 143);
+    height: 600px;
+}
+
+.inupute{
+    width: 190px;
+}
+
+div.form
+{
+    display: block;
+    text-align: center;
+}
+form
+{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.resultParas{
+    text-align: center;
+}
+
+.rstBtn{
+	margin-left: 730px;
+}
